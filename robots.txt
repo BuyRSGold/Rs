@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://buyrsgold.github.io/Rs/sitemap.xml
